@@ -1,0 +1,8 @@
+Labname ossec
+
+Student              |       ssh_alert |    ssh_response |     port_listen |     access_plan |     failed_plan |
+==================== | =============== | =============== | =============== | =============== | =============== |
+m.makhtsaev_at_stude |               Y |               Y |               Y |                 |                 |
+What is automatically assessed for this lab:
+
+
